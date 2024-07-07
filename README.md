@@ -1,5 +1,5 @@
-# Project-C.O.V.I.D
-Custom Operated Variable Input Dashboard
+# Project-C.O.V.I.D(Custom Operated Variable Input Dashboard)
+The Ultimate Python-Mysql Database Interface
 
 
 this was my 12th class project
